@@ -6,3 +6,4 @@
   -  GIN -> gin.py
   -  SP-GIST -> raddix_tree.py(может когда-то посмотрю как реализуется Quadtree и k-d tree для координат)
   -  Hash - hash_index.py
+  -  B-TREE - btree_plus.py(Я знаю, что там B-link tree, но мне лень продумывать связный список для внутренних уровней - может когда-то...) 
